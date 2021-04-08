@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+  background: #FFF;
+
+}
+.text img {
+  width: 8.25rem;
+  height: 8.25rem;
+  margin: 0 auto 0 auto;
+
+}
+.hero img {
+  border-radius: 0;
+  
+}
+aside.right,aside.left {
+  float: none;
+  text-align: center;
+
+}
